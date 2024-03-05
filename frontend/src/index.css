@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    /* @apply: "bg-gradient-to-b from-[#FFE6CC] via-"
+     */
+    @apply bg-[#FFE6CC];
+}
